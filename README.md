@@ -6,7 +6,8 @@ This project combines the power of LangChain, ChromaDB, and Hugging Face's large
 
 ![1zydD2GKzjpEyvL-d_cP0vA](https://github.com/Kirouane-Ayoub/RAG-ChatBot/assets/99510125/57d2d4ab-e0aa-4ede-aef5-9db9652cbea0)
 
-
+## Retrieval Augmented Generation (RAG) : 
++ Check this YouTube Video: **https://www.youtube.com/watch?v=T-D1OfcDW1M**
 ## Key Features:
 
 + User-friendly GUI built with Streamlit for easy interaction.
