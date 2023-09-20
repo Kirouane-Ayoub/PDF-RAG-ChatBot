@@ -3,6 +3,10 @@
 ## Description:
 This project combines the power of LangChain, ChromaDB, and Hugging Face's large language models to create an intelligent chatbot capable of answering a wide range of user queries. The chatbot leverages Retrieval Augmented Generation (RAG) to overcome the limitations of traditional Language Model (LLM) based queries. It retrieves information from a knowledge base stored in ChromaDB and uses LLMs to summarize documents into concise and informative responses.
 
+
+![1zydD2GKzjpEyvL-d_cP0vA](https://github.com/Kirouane-Ayoub/RAG-ChatBot/assets/99510125/57d2d4ab-e0aa-4ede-aef5-9db9652cbea0)
+
+
 ## Key Features:
 
 + User-friendly GUI built with Streamlit for easy interaction.
