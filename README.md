@@ -31,3 +31,4 @@ streamlit run app.py
 ```
 ![Screenshot at 2023-09-20 17-08-09](https://github.com/Kirouane-Ayoub/RAG-ChatBot/assets/99510125/ca24c878-4ad6-446a-87b4-8c0ef5f9809c)
 
+- **By Kirouane Ayoub**
